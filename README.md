@@ -4,7 +4,7 @@ Welcome to the interactive Power BI project analyzing mobile phone sales across 
 
 This project is based on the **DataDNA May 2025 Challenge** dataset and is designed to extract key business insights that can drive strategic decisions in the mobile phone retail sector.
 
----
+
 
 ## 🔍 Project Overview
 
@@ -12,33 +12,8 @@ This project is based on the **DataDNA May 2025 Challenge** dataset and is desig
 - **Data Source:** DataDNA May 2025 Challenge
 - **Scope:** Multinational mobile phone sales covering brands, models, customers, and revenue trends
 
----
 
 ## 📊 Interactive Dashboards: (https://tinyurl.com/mr2j7pvw)
-
-Click the links below to explore each interactive report in Power BI:
-
-### 1. 🌐 Market Overview Dashboard  
-> 🔗 [View Dashboard](#)  
-Covers overall brand performance, country-wise sales, OS breakdown, and storage/color preferences.
-
-### 2. 📦 Product Performance Dashboard  
-> 🔗 [View Dashboard](#)  
-Focuses on top models, pricing trends, and product category insights.
-
-### 3. 👥 Customer Insights Dashboard  
-> 🔗 [View Dashboard](#)  
-Analyzes customer demographics, preferences by age/gender, and brand segmentation.
-
-### 4. 🗺️ Geographical Analysis Dashboard  
-> 🔗 [View Dashboard](#)  
-Breaks down revenue and volume by country and city, highlighting regional variations.
-
-### 5. 📈 Time Series & Trend Analysis Dashboard  
-> 🔗 [View Dashboard](#)  
-Shows monthly and quarterly sales trends by brand and geography.
-
----
 
 ## ❓ Key Business Questions Answered
 
