@@ -13,7 +13,7 @@ This project is based on the **DataDNA May 2025 Challenge** dataset and is desig
 - **Scope:** Multinational mobile phone sales covering brands, models, customers, and revenue trends
 
 
-## 📊 Interactive Dashboards: (https://tinyurl.com/mr2j7pvw)
+## 📊 Interactive Dashboards: (https://bit.ly/3VxGIBj)
 
 ## ❓ Key Business Questions Answered
 
